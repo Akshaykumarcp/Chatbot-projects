@@ -1,0 +1,12 @@
+2020-04-01/05:54:37		User Says: 8123920743
+2020-04-01/05:57:04		User Says: 8123920743
+2020-04-01/06:06:10		User Says: 8123920743
+2020-04-01/06:06:10		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-01/06:11:50		User Says: 8123920743
+2020-04-01/06:12:47		User Says: 8123920743
+2020-04-01/06:13:42		User Says: 8123920743
+2020-04-01/06:13:45		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-01/06:38:52		User Says: 8123920743
+2020-04-01/06:38:55		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
+2020-04-01/06:40:04		User Says: 8123920743
+2020-04-01/06:40:09		Bot Says: We have sent the course syllabus and other relevant details to you via email. An email has been sent to the Support Team with your contact information, you'll be contacted soon. Do you have further queries?
